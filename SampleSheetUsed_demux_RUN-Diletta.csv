@@ -1,0 +1,18 @@
+[Header],,,,,,,,,,,,,
+Date,2/21/2020,,,,,,,,,,,,
+IEMFileVersion,5,,,,,,,,,,,,
+Workflow,GenerateFASTQ,,,,,,,,,,,,
+Application,NextSeq FASTQ Only,,,,,,,,,,,,
+Instrument Type,NextSeq/MiniSeq,,,,,,,,,,,,
+Assay,TruSeq Stranded Total RNA,,,,,,,,,,,,
+Index Adapters,IDT-ILMN TruSeq RNA UD Indexes (96 Indexes),,,,,,,,,,,,
+Chemistry,Amplicon,,,,,,,,,,,,
+[Reads],,,,,,,,,,,,,
+76,,,,,,,,,,,,,
+[Settings],,,,,,,,,,,,,
+Adapter,AGATCGGAAGAGCACACGTCTGAACTCCAGTCA,,,,,,,,,,,,
+AdapterRead2,AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT,,,,,,,,,,,,
+[Data],,,,,,,,,,,,,
+Sample_ID,Sample_Name,index
+Lib_DDM-A,Lib_DDM-A,CAAGGCGA
+Lib_DDM-B,Lib_DDM-B,GACGCTAT
